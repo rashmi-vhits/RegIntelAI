@@ -1,0 +1,23 @@
+{
+  "case_id": "PT-88412",
+  "severity": "hospitalization - prolonged",
+  "report_type": "Initial",
+  "missing_fields": [
+    "sae_onset_date",
+    "relationship_of_event_to_intervention",
+    "signature_of_principal_investigator",
+    "date"
+  ],
+  "recommended_missing_fields": [
+    "sae_stop_date",
+    "outcome_of_serious_adverse_event"
+  ],
+  "pii_findings": [
+    "patient_name",
+    "phone",
+    "email",
+    "address"
+  ],
+  "recommendation": "return_for_correction",
+  "signoff_present": false
+}

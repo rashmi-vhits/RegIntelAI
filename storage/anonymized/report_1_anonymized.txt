@@ -1,0 +1,44 @@
+Protocol Title: Phase II Safety Evaluation of GLX-17 in Autoimmune Vasculitis
+Protocol Number: VASC-GLX17-022
+Site Number: IND-HYD-005
+Pt_ID: PT-88412
+
+Patient Name: [REDACTED_PATIENT_NAME]
+Age: 38
+Sex: Male
+Phone: [REDACTED_PHONE]
+Email: [REDACTED_EMAIL]
+Address: [REDACTED_ADDRESS]
+
+Location of serious adverse event: Study Site Ward
+
+Unexpected Adverse Event: Yes
+
+Adverse Event Term(s):
+Severe gastrointestinal bleeding, dizziness
+
+Brief description of participant with no personal identifiers:
+A 38-year-old male participant receiving investigational therapy GLX-17 reported hematemesis, dizziness, and weakness during scheduled follow-up after dose escalation.
+
+Brief description of the nature of the serious adverse event:
+The participant required urgent stabilization and transfusion support after reporting repeated episodes of bleeding. Endoscopic evaluation was planned. Study staff documented the event as serious and clinically significant.
+
+Category of serious adverse event:
+Hospitalization - prolonged
+
+Intervention type:
+Medication: GLX-17
+
+Was study intervention discontinued due to event?
+Yes
+
+What medications or other steps were taken to treat serious adverse event?
+IV fluids, blood transfusion support, gastroenterology consult, monitoring in ward.
+
+List any relevant tests, laboratory data, history, including preexisting medical conditions:
+Hemoglobin: 7.9 g/dL
+Blood pressure: 92/58 mmHg
+History of autoimmune vasculitis
+
+Type of report:
+Initial

@@ -1,0 +1,13 @@
+{
+  "case_id": "sae_case_005",
+  "severity": "Congenital anomaly / birth defect",
+  "drug": "ZNV-6",
+  "event": "Neonatal cardiac defect",
+  "patient_age": 31,
+  "patient_gender": "Female",
+  "expectedness": "Yes",
+  "outcome": "Neonate referred for specialist evaluation",
+  "relationship_to_intervention": "Possible",
+  "report_type": "Final",
+  "source_file": "data/sae_cases/sae_case_005.txt"
+}

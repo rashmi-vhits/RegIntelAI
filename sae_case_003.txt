@@ -1,0 +1,53 @@
+Protocol Title: Randomized Double-Blind Study of NMX-41 for Refractory Asthma
+Protocol Number: ASTH-NMX-041
+Site Number: IND-KOL-004
+Pt_ID: PT-11882
+
+Patient Name: Arjun Das
+Age: 29
+Sex: Male
+Phone: 9123456780
+Email: arjun.das29@example.com
+Hospital ID: HSP-882711
+
+SAE Onset Date: 05/Apr/2025
+SAE Stop Date: 09/Apr/2025
+Location of serious adverse event: Emergency Department
+
+Unexpected Adverse Event: Yes
+
+Adverse Event Term(s):
+Anaphylaxis, respiratory distress, hypotension
+
+Brief description of participant with no personal identifiers:
+A 29-year-old male with severe refractory asthma developed acute onset shortness of breath, generalized rash, throat tightness, and dizziness within 40 minutes of receiving the investigational biologic NMX-41.
+
+Brief description of the nature of the serious adverse event:
+The participant experienced rapid respiratory compromise and hypotension requiring immediate emergency intervention. Oxygen saturation dropped to 84% on room air. He was shifted to emergency care where he received intramuscular adrenaline, IV corticosteroids, antihistamines, oxygen therapy, and fluid resuscitation. Symptoms improved after stabilization.
+
+Category of serious adverse event:
+Life-threatening
+
+Intervention type:
+Medication: NMX-41 investigational biologic
+
+Relationship of event to intervention:
+Definite
+
+Was study intervention discontinued due to event?
+Yes
+
+What medications or other steps were taken to treat serious adverse event?
+Adrenaline IM, hydrocortisone IV, oxygen support, antihistamines, IV fluids, observation in monitored care setting.
+
+List any relevant tests, laboratory data, history, including preexisting medical conditions:
+Known severe asthma
+No prior drug allergy documented
+Blood pressure at event: 78/46 mmHg
+Oxygen saturation: 84%
+
+Type of report:
+Initial
+
+Signature of Principal Investigator: Dr. S. Chatterjee
+Date: 09/Apr/2025

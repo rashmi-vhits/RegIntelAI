@@ -1,0 +1,59 @@
+Protocol Title: A Phase III Multicenter Study Evaluating the Safety of AXM-201 in Patients with Moderate Rheumatoid Arthritis
+Protocol Number: CT-RA-2025-014
+Site Number: IND-AHM-002
+Pt_ID: PT-20458
+
+Patient Name: [REDACTED_PATIENT_NAME]
+Age: 46
+Sex: Female
+Phone: [REDACTED_PHONE]
+Email: [REDACTED_EMAIL]
+Address: [REDACTED_ADDRESS]
+
+SAE Onset Date: 11/Mar/2025
+SAE Stop Date: 20/Mar/2025
+Location of serious adverse event: Study Site Hospital
+
+Unexpected Adverse Event: Yes
+
+Adverse Event Term(s):
+Acute liver injury, nausea, jaundice, abdominal pain
+
+Brief description of participant with no personal identifiers:
+A 46-year-old female participant enrolled in the rheumatoid arthritis trial presented with progressive nausea, fatigue, right upper abdominal pain, and yellow discoloration of eyes approximately 5 days after initiation of investigational drug AXM-201.
+
+Brief description of the nature of the serious adverse event:
+The participant reported loss of appetite and dark urine followed by worsening abdominal discomfort. Liver function tests showed marked elevation of ALT and AST. She was admitted for monitoring and supportive care. No prior history of chronic liver disease was documented. Study medication was discontinued immediately upon suspicion of drug-induced liver injury. Follow-up review documented biochemical improvement before discharge.
+
+Category of serious adverse event:
+Hospitalization - initial
+
+Intervention type:
+Medication: AXM-201
+
+Relationship of event to intervention:
+Probable
+
+Was study intervention discontinued due to event?
+Yes
+
+What medications or other steps were taken to treat serious adverse event?
+Investigational product was discontinued. Participant received IV fluids, antiemetics, liver protective supportive care, serial liver function monitoring, and hepatology consultation.
+
+List any relevant tests, laboratory data, history, including preexisting medical conditions:
+ALT: 822 U/L
+AST: 691 U/L
+Total Bilirubin: 4.1 mg/dL
+INR: 1.8
+Alkaline phosphatase: 286 U/L
+No known viral hepatitis
+History of hypertension controlled with amlodipine
+
+Outcome of serious adverse event:
+Recovering; liver enzymes trending downward at discharge.
+
+Type of report:
+Follow-up
+
+Signature of Principal Investigator: Dr. R. Menon
+Date: 20/Mar/2025

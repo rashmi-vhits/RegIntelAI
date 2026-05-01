@@ -1,0 +1,31 @@
+{
+  "rule_pack": "device_rules",
+  "version": "1.0",
+  "scope": "Medical device adverse event and PMCF reporting",
+  "rules": [
+    {
+      "id": "DEV-001",
+      "name": "Device identifier required",
+      "severity": "high",
+      "type": "completeness",
+      "check": "device_name_or_model_required",
+      "fields": ["intervention_type"]
+    },
+    {
+      "id": "DEV-002",
+      "name": "Device malfunction evidence should be noted",
+      "severity": "medium",
+      "type": "content",
+      "check": "malfunction_or_mechanism_documented",
+      "fields": ["brief_description_of_serious_adverse_event", "relevant_tests"]
+    },
+    {
+      "id": "DEV-003",
+      "name": "Functional outcome should be described for disability cases",
+      "severity": "high",
+      "type": "completeness",
+      "check": "functional_outcome_required_for_disability",
+      "fields": ["category_of_serious_adverse_event", "outcome_of_serious_adverse_event"]
+    }
+  ]
+}

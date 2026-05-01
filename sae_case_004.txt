@@ -1,0 +1,53 @@
+Protocol Title: Post-Market Clinical Follow-up of Implantable Neuro-Stimulation Device NSD-11
+Protocol Number: DEV-NSD-11-PMCF
+Site Number: IND-BLR-006
+Pt_ID: PT-66390
+
+Patient Name: Karan Patel
+Age: 52
+Sex: Male
+Phone: 9012345678
+Email: karan.patel52@example.com
+Address: Bengaluru, Karnataka
+
+SAE Onset Date: 11/Jan/2025
+SAE Stop Date: 26/Jan/2025
+Location of serious adverse event: Outside Study Site
+
+Unexpected Adverse Event: Yes
+
+Adverse Event Term(s):
+Neurological deficit, lower limb weakness, impaired gait
+
+Brief description of participant with no personal identifiers:
+A 52-year-old male participant with chronic neuropathic pain implanted with investigational neuro-stimulation device NSD-11 reported progressive lower limb weakness and difficulty walking approximately 3 weeks after implantation.
+
+Brief description of the nature of the serious adverse event:
+The participant experienced worsening motor weakness associated with device malfunction suspicion. Imaging suggested lead displacement with possible neural irritation. Device output was stopped and the participant underwent urgent evaluation. Residual weakness persisted despite intervention and rehabilitation, resulting in functional disability at the time of reporting.
+
+Category of serious adverse event:
+Permanent impairment / disability
+
+Intervention type:
+Device: Implantable Neuro-Stimulation Device NSD-11
+
+Relationship of event to intervention:
+Possible
+
+Was study intervention discontinued due to event?
+Yes
+
+What medications or other steps were taken to treat serious adverse event?
+Device deactivation, neurological assessment, MRI imaging, physiotherapy, pain management, rehabilitation support.
+
+List any relevant tests, laboratory data, history, including preexisting medical conditions:
+MRI suggestive of lead displacement
+Persistent lower limb motor weakness (Grade 3/5)
+History of chronic neuropathic pain
+No prior stroke history
+
+Type of report:
+Follow-up
+
+Signature of Principal Investigator: Dr. V. Iyer
+Date: 26/Jan/2025

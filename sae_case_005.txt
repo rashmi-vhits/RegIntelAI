@@ -1,0 +1,53 @@
+Protocol Title: Observational Pregnancy Safety Registry for Anti-Epileptic Therapy ZNV-6
+Protocol Number: PREG-ZNV6-OBS
+Site Number: IND-DEL-003
+Pt_ID: PT-77109
+
+Patient Name: Nisha Verma
+Age: 31
+Sex: Female
+Phone: 9090909090
+Email: nisha.verma31@example.com
+Address: New Delhi
+
+SAE Onset Date: 03/May/2025
+SAE Stop Date: 03/May/2025
+Location of serious adverse event: Maternity Center
+
+Unexpected Adverse Event: No
+
+Adverse Event Term(s):
+Congenital anomaly, neonatal cardiac defect
+
+Brief description of participant with no personal identifiers:
+A 31-year-old pregnant participant exposed to anti-epileptic medication ZNV-6 during the first trimester delivered a neonate with a structural cardiac anomaly identified shortly after birth.
+
+Brief description of the nature of the serious adverse event:
+The pregnancy had been monitored due to maternal seizure disorder. Fetal anomaly scan had shown possible cardiac abnormality, later confirmed after delivery. The newborn was diagnosed with congenital heart defect requiring specialist neonatal cardiology evaluation. Maternal condition remained stable throughout pregnancy.
+
+Category of serious adverse event:
+Congenital anomaly / birth defect
+
+Intervention type:
+Medication: ZNV-6
+
+Relationship of event to intervention:
+Possible
+
+Was study intervention discontinued due to event?
+No
+
+What medications or other steps were taken to treat serious adverse event?
+Neonatal cardiac evaluation, echocardiography, specialist referral, maternal neurology follow-up.
+
+List any relevant tests, laboratory data, history, including preexisting medical conditions:
+Maternal history of epilepsy
+First trimester exposure to ZNV-6
+Prenatal anomaly scan suggestive of cardiac abnormality
+Postnatal echocardiography confirmed congenital defect
+
+Type of report:
+Final
+
+Signature of Principal Investigator: Dr. P. Arora
+Date: 03/May/2025

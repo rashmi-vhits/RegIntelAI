@@ -1,0 +1,53 @@
+Protocol Title: Open Label Study of TRX-88 in Metastatic Colorectal Cancer
+Protocol Number: ONC-TRX-88-07
+Site Number: IND-MUM-001
+Pt_ID: PT-55021
+
+Patient Name: Meena Kapoor
+Age: 61
+Sex: Female
+Phone: 9988776655
+Address: Mumbai, Maharashtra
+Email: meenakapoor61@example.com
+
+SAE Onset Date: 22/Feb/2025
+SAE Stop Date: 24/Feb/2025
+Location of serious adverse event: Intensive Care Unit
+
+Unexpected Adverse Event: No
+
+Adverse Event Term(s):
+Septic shock, neutropenic sepsis, multiorgan failure
+
+Brief description of participant with no personal identifiers:
+A 61-year-old female participant with metastatic colorectal carcinoma receiving investigational chemotherapy TRX-88 presented with fever, weakness, and confusion 8 days after treatment cycle 2.
+
+Brief description of the nature of the serious adverse event:
+The participant was admitted with severe febrile neutropenia and rapidly progressed to septic shock despite broad-spectrum antibiotics, vasopressor support, and ICU care. Blood cultures were positive for gram-negative bacteremia. The participant developed acute kidney injury and multiorgan dysfunction. Death occurred on 24/Feb/2025.
+
+Category of serious adverse event:
+Death
+
+Intervention type:
+Medication: TRX-88 investigational chemotherapy
+
+Relationship of event to intervention:
+Possible
+
+Was study intervention discontinued due to event?
+Yes
+
+What medications or other steps were taken to treat serious adverse event?
+ICU admission, IV antibiotics, vasopressors, mechanical ventilation, renal support, supportive oncology care.
+
+List any relevant tests, laboratory data, history, including preexisting medical conditions:
+Absolute neutrophil count: 300 cells/mm3
+Creatinine: 2.8 mg/dL
+Blood cultures positive for gram-negative bacilli
+Known metastatic colorectal carcinoma
+
+Type of report:
+Final
+
+Signature of Principal Investigator: Dr. A. Nair
+Date: 24/Feb/2025

@@ -1,0 +1,13 @@
+{
+  "case_id": "sae_case_004",
+  "severity": "Permanent impairment / disability",
+  "drug": "NSD-11",
+  "event": "Neurological deficit",
+  "patient_age": 52,
+  "patient_gender": "Male",
+  "expectedness": "No",
+  "outcome": "Residual weakness persisted",
+  "relationship_to_intervention": "Possible",
+  "report_type": "Follow-up",
+  "source_file": "data/sae_cases/sae_case_004.txt"
+}

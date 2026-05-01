@@ -1,0 +1,31 @@
+{
+  "rule_pack": "clinical_trial_rules",
+  "version": "1.0",
+  "scope": "Drug and biologic clinical trial SAE reporting",
+  "rules": [
+    {
+      "id": "CTR-001",
+      "name": "Protocol metadata required",
+      "severity": "high",
+      "type": "completeness",
+      "check": "required_fields_present",
+      "fields": ["protocol_title", "protocol_number", "site_number", "pt_id"]
+    },
+    {
+      "id": "CTR-002",
+      "name": "Intervention relationship required",
+      "severity": "high",
+      "type": "completeness",
+      "check": "required_fields_present",
+      "fields": ["relationship_of_event_to_intervention"]
+    },
+    {
+      "id": "CTR-003",
+      "name": "Outcome or status update should be captured",
+      "severity": "medium",
+      "type": "completeness",
+      "check": "recommended_field_present",
+      "fields": ["outcome_of_serious_adverse_event"]
+    }
+  ]
+}

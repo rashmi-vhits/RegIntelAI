@@ -1,0 +1,31 @@
+{
+  "rule_pack": "ethics_rules",
+  "version": "1.0",
+  "scope": "Human participant research documentation",
+  "rules": [
+    {
+      "id": "ETH-001",
+      "name": "No direct patient identifiers in narrative",
+      "severity": "high",
+      "type": "anonymization",
+      "check": "narrative_must_not_contain_direct_identifiers",
+      "fields": ["patient_name", "phone", "email", "address"]
+    },
+    {
+      "id": "ETH-002",
+      "name": "Investigator accountability required",
+      "severity": "high",
+      "type": "completeness",
+      "check": "investigator_signature_required",
+      "fields": ["signature_of_principal_investigator", "date"]
+    },
+    {
+      "id": "ETH-003",
+      "name": "Participant description should be de-identified",
+      "severity": "medium",
+      "type": "content",
+      "check": "participant_description_must_be_deidentified",
+      "fields": ["brief_description_of_participant"]
+    }
+  ]
+}

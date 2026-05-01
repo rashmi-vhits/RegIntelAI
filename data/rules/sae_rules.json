@@ -1,0 +1,69 @@
+{
+  "rule_pack": "sae_rules",
+  "version": "1.0",
+  "scope": "Serious adverse event intake completeness and validation",
+  "required_fields": [
+    "patient_name",
+    "age",
+    "sex",
+    "sae_onset_date",
+    "adverse_event_terms",
+    "category_of_serious_adverse_event",
+    "intervention_type",
+    "relationship_of_event_to_intervention",
+    "type_of_report",
+    "signature_of_principal_investigator"
+  ],
+  "recommended_fields": [
+    "sae_stop_date",
+    "outcome_of_serious_adverse_event",
+    "relevant_tests",
+    "unexpected_adverse_event"
+  ],
+  "validation_rules": [
+    {
+      "id": "SAE-001",
+      "name": "Onset date should be present",
+      "severity": "high",
+      "type": "completeness",
+      "check": "required_fields_present",
+      "fields": ["sae_onset_date"]
+    },
+    {
+      "id": "SAE-002",
+      "name": "Relationship to intervention required",
+      "severity": "high",
+      "type": "completeness",
+      "check": "required_fields_present",
+      "fields": ["relationship_of_event_to_intervention"]
+    },
+    {
+      "id": "SAE-003",
+      "name": "Outcome is mandatory for follow-up or final reports",
+      "severity": "medium",
+      "type": "conditional_completeness",
+      "check": "field_required_when",
+      "fields": ["outcome_of_serious_adverse_event"],
+      "condition": {
+        "field": "type_of_report",
+        "in": ["Follow-up", "Final"]
+      }
+    },
+    {
+      "id": "SAE-004",
+      "name": "Unexpectedness should align with event expectation field",
+      "severity": "medium",
+      "type": "consistency",
+      "check": "boolean_like_value_expected",
+      "fields": ["unexpected_adverse_event"]
+    },
+    {
+      "id": "SAE-005",
+      "name": "Investigator sign-off required before submission",
+      "severity": "high",
+      "type": "completeness",
+      "check": "required_fields_present",
+      "fields": ["signature_of_principal_investigator", "date"]
+    }
+  ]
+}

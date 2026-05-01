@@ -1,0 +1,39 @@
+{
+  "rule_pack": "anonymization_rules",
+  "version": "1.0",
+  "scope": "PII masking and redaction",
+  "rules": [
+    {
+      "id": "ANON-001",
+      "name": "Patient name must be masked in exported text",
+      "severity": "high",
+      "type": "anonymization",
+      "check": "mask_pattern",
+      "pattern": "patient_name"
+    },
+    {
+      "id": "ANON-002",
+      "name": "Phone numbers must be masked",
+      "severity": "high",
+      "type": "anonymization",
+      "check": "mask_pattern",
+      "pattern": "phone"
+    },
+    {
+      "id": "ANON-003",
+      "name": "Email addresses must be masked",
+      "severity": "high",
+      "type": "anonymization",
+      "check": "mask_pattern",
+      "pattern": "email"
+    },
+    {
+      "id": "ANON-004",
+      "name": "Addresses should be removed from anonymized summaries",
+      "severity": "medium",
+      "type": "anonymization",
+      "check": "mask_pattern",
+      "pattern": "address"
+    }
+  ]
+}
